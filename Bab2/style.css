@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: linear-gradient(
+    to right bottom,
+    #845ec2,
+    #a55dbd,
+    #c15db5,
+    #d95fab,
+    #ec64a0,
+    #f66b93,
+    #fc7587,
+    #ff807d,
+    #ff8f72,
+    #ffa168,
+    #ffb461,
+    #ffc75f
+  );
+}
+
+#tabel-siswa {
+  border-collapse: collapse;
+  border-width: 1px;
+  border-style: solid;
+  border-color: whitesmoke;
+  margin: 30px auto;
+  background-image: url(bg.jpg);
+  background-size: 100%;
+  color: whitesmoke;
+}
+
+#tabel-siswa td {
+  padding: 10px;
+}
+
+#tabel-siswa th {
+  padding: 10px;
+}
+
+#tabel-siswa img {
+  padding: 10px;
+  width: 150px;
+  height: 150px;
+}
+
+#tabel-siswa h3 {
+  font-size: 32px;
+}
+.link {
+  color: rgb(148, 132, 255);
+  text-decoration: none;
+}
